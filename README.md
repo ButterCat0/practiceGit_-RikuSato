@@ -1,7 +1,3 @@
 #Visual sudio
 
-VScodeで更新しました
-
-ssss
-
-rrrr
+ブラウザで更新しました
